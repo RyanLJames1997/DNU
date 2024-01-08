@@ -1,10 +1,10 @@
 # DNU
 
-    'AK': 'Actinic keratoses'
-    'BCC': 'Basal cell carcinoma'
-    'BKL': 'Benign keratosis-like lesions'
-    'DF': 'Dermatofibroma'
-    'NV': 'Melanocytic nevi'
-    'MEL': 'Melanoma'
-    'SCC': 'Squamous Cell Carcinoma'
-    'VASC': 'Vascular lesions'
+    Actinic keratoses: 'AK' (1)
+    Basal cell carcinoma: 'BCC' (1)
+    Benign keratosis-like lesions: 'BKL' (0)
+    Dermatofibroma: 'DF' (0)
+    Melanocytic nevi: 'NV' (0)
+    Melanoma: 'MEL' (1)
+    Squamous Cell Carcinoma: 'SCC' (1)
+    Vascular lesions: 'VASC' (0)
